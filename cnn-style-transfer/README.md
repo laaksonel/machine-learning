@@ -13,3 +13,6 @@
 - Last part is the combination of the two
 
 ![Images used in the process](https://raw.githubusercontent.com/laaksonenl/machine-learning/master/cnn-style-transfer/demo/demo.png)
+
+Fully evaluated notebook can also be found at Kaggle
+https://www.kaggle.com/zecklar/convolutional-style-transfer
